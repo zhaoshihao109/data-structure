@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\shanshan\Desktop\队列\队列\main.cpp(85,31): warning C4244:  “参数”: 从“int”转换到“float”，可能丢失数据
+C:\Users\shanshan\Desktop\队列\队列\main.cpp(85,27): warning C4244:  “参数”: 从“int”转换到“float”，可能丢失数据
+  队列.vcxproj -> C:\Users\shanshan\Desktop\队列\x64\Debug\队列.exe
